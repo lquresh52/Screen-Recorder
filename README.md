@@ -14,4 +14,4 @@ I have buid a desktop app for screen recording in which you can record your enti
 
 ![alt text](https://raw.githubusercontent.com/lquresh52/Screen-Recorder/master/Screenshot%20(228).png)
 
-![alt text](https://github.com/lquresh52/Screen-Recorder/blob/master/vid-1606713067029.webm?raw=true)
+![alt text](https://raw.githubusercontent.com/lquresh52/Screen-Recorder/master/vid-1606713067029.webm)
